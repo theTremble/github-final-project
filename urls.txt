@@ -4,5 +4,7 @@ https://github.com/theTremble/github-final-project/blob/main/CONTRIBUTING.md
 https://github.com/theTremble/github-final-project/blob/main/LICENSE
 https://github.com/theTremble/github-final-project/blob/main/README.md
 https://github.com/theTremble/github-final-project/blob/main/simple-interest.sh
+
 https://github.com/theTremble/jbbmo-Introduction-to-Git-and-GitHub
+https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/19898
 https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/19899
